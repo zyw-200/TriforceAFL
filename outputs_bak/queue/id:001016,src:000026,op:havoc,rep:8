@@ -1,0 +1,10 @@
+GET /he HTTP/1.1
+Host: 192.168.0.1
+User-0 (X11; Ubuntu; =0.ux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+Accept; text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+AcceptL=0ade-Insec.LLLLLLLLLLLLLLLLLLLLL
+Accept-Encoding: gzip, deflate
+Cookie: uid=I5lLUfGJJ
+
+Connectÿÿÿÿ keep-alive
+Upgrade-Insecure-Reques

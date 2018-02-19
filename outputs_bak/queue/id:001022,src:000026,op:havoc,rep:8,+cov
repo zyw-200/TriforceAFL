@@ -1,0 +1,12 @@
+GET /hedwig.cgi HTTP/1.1
+Host: 192.168.0.1
+User-Agent: M.0 (X11; Ubuntu; LŒnux x86_64; rv:57.0) Gecko/20100101 FirMfox/57.0
+Accept: text/htplication/xml;q=^.GJJ
+
+Connection: keep-alive
+Upg9,*/*;quage: en-US,enge: en-US,en;q=0.5;q=0.5
+Accept-Encoding: gzip, deflate
+untu; Linux x8lLUfGJJ
+
+Connection: keep-alive
+Upgrade-Insecure-Reques

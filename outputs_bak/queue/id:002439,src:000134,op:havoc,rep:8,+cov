@@ -1,0 +1,10 @@
+cat /hedwig.cgi HTTP/1.1
+Host: 192.Ã68.0.1
+User-Agent: M.0 (X11;t-Luntu Linux x86_64; rv:57./57.0
+Accept: en;q=0.5
+Accrpt-Encoding: g+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, Accdeflate
+Coo~ie: uid=I5lLUfGJ7J
+Connectiïn: keep-alive
+Upgrade-Insecure-Reques

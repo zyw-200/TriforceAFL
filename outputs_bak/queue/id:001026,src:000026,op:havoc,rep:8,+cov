@@ -1,0 +1,22 @@
+GET /hedwig.cgi HTTP/1.1
+Hoot: 192.168.0.1
+User-Agent: Mdwi
+
+
+
+
+
+
+
+
+
+
+
+ Gecko/20100101 Firefox/57.0
+Accept: telication/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encodinv: gzip, deflate
+Cookie: uid=I5lLUfGJJ
+
+Connection: keep-alive
+Upgrade-Insecure-Reques

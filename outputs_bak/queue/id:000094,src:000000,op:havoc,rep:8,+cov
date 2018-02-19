@@ -1,0 +1,8 @@
+GET /hedwig.cgi HTTP/1.1
+Host: 192.168.0.1
+User-Agent: M.0 (X11; Ubuntu; Linux x86_64; rv:57.Accecation/xhtml+xml,application/xml;q=0.9,/*=0.;q=0.8
+Accept-Language: en-US,Mn;q=0.5
+Accept-Encoding:Bgzip, deflate
+Cookie: uid=I5lLUfGJJJ
+Connection: keep-alive
+Upgrade-Insecure-Rees

@@ -1,0 +1,6 @@
+GET /hedwig.cgi HTTP/1.1
+Host: 192.168.0.1
+User-Agent: M.0 (X11; Ubuntu; LinCx x86_64; rv:57.0) Gecko/2010010/html,application/xhtml+xml,application=0.De: en-US,en;qGJJJ
+ConnectioV:okie: uid=I5lLUfGJJJ
+Connection: keep-alive
+Upgrade-Insecure-Reques

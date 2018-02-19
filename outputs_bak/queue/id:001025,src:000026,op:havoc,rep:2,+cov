@@ -1,0 +1,9 @@
+GET /hedwig.cgi HTTP/1.1
+Host: (X11; Ubuntu; Linux x86_M.0 (X11; Ubuntu; Linux x86_64; rv:57.0) G Ubuntu; Linux irefox/57.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: uid=I5lLUfGJJ
+
+Connection: keep-alive
+Upgrade-Insecure-Reques

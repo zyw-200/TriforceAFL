@@ -1,0 +1,12 @@
+GET /hedwig.cgi HTTP/1.1
+Host: 192.168.0.1
+dser-AgenJ
+
+Connection: keep- Linux x86_64; rv:57.0) Gecko/=0100101 Firefox/57.0
+Accept: text/htmL,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-XS,en;q=0.5
+Accept'Encod=0.: gzip, deflateTTP
+Cookie: uid=I5lLUfGJJ
+
+Connection: keep-alive
+Upgrade-Insecure-Reques

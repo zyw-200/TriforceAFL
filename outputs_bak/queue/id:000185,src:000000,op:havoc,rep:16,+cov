@@ -1,0 +1,6 @@
+GET /hedwig.bgi HTTP/1.5
+Host: 192.168.0.1
+User-Agenr: M.0 (X11; Ubuntu; 5inux x86_64;èv=0.:57.0) Gecko/20100101 Fire=0./57.0
+Accept: text/html,applicatio{/xhtml+xml,cpplic=0.on/xml;q=0.9,*/*;q=rv:57.0) Gecko/2en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: uid4; rv:57.0) Gecko/20100@01 p-aliveèpgrade-Insecure-Reques

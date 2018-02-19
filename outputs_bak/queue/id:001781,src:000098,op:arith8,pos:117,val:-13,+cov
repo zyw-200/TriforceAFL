@@ -1,0 +1,10 @@
+GET /hedwig.cgi HTTP/1.1
+Host: 192.168.0.1
+User-Agent: M.0 (X11; Ubuntu; Linux x86_64; rvte
+Cookie: uid=I5lLUf Firefok/57.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accepp, deflate
+Cookie: uid=I5lLUfGJJJ
+Connection: keep-alive
+Upgrade-Insecure-Reques

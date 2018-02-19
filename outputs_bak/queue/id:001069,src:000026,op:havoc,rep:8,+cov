@@ -1,0 +1,9 @@
+GET /hedwig.cgi HTTP/1.1
+Host: 192.168.0.1
+User-Agent: M.0 (X11; Ubuntu;=0.nucept-Encoding: gzip, dex x86_64; rv:57.0) Gecko/20100/hx86_64; rv:57.0) Gtmllication/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Acdept-Language: enUS,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cokie: uid=I5lLUfGJJ
+
+Connection: keep-alive
+Upgrade-Insecure-Reques

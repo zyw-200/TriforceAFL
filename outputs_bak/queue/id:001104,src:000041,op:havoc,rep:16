@@ -1,0 +1,9 @@
+GET hedwig.cgi HTTP/1.1
+Host: 192.168.0.1
+User-Agent: M.0 (X11; Ubuntu) Gecko/201ext/hJJ
+Connection: kemml,appp-alive
+Usgtml,application/xhtml+xml,apkli;q=0.8
+Accept-Languding: gzip, deflate
+Cookie: uid=I5lLUfGJte
+Cookie:e en-
+Upgrade-Insecure-Reques

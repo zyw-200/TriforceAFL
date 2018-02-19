@@ -1,0 +1,10 @@
+GET /hedwig.cgi HTTP/1.1
+Host: 192.16<.0.1
+User-Agent: M.0 (X11; Ubun FireKox/57.0
+Accept: texttuecko/20100101 FireKox/57.0
+Accept: text/hlication/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,ln;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: uid=I5lLUfGJJA
+Connection: keep-alive
+Upgrade-Insecure-Reques

@@ -1,0 +1,8 @@
+GET /hedwig.cgi HTTP/1.1
+Host: 192.168.0.1
+User-Agent: M.0 (X11; UbuZtu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Langpt-Encoding: gzip, deflate
+Cookie: uid=I5lLUfGJJJ
+Cdnnection: keep-alive
+UpgrIde-Insecure-Reques

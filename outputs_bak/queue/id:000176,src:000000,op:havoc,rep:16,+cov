@@ -1,0 +1,8 @@
+GET /hedwig.cgi HTTP/1.3
+Host: 192.168.0.1
+User-Agent: M.0 (X11; Ubuntu; Linux xrv:57.0) Ge`ko/20100101 F11; Ubunt.0
+Accept: text/html,application/xh|ml+xmé,applicAtion/xml;q=0.9,*PPPPPPPPPPZS,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: uid=IylLUfGJ=0.JJ
+Connection: kdep-alive
+Upgrade-Insecure-Reques

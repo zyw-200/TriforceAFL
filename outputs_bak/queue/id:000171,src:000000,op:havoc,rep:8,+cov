@@ -1,0 +1,9 @@
+GET /hedwig.cgi HTTP/6.1
+Host: 192.168.0.1
+User-Agent: M.0 (X11; Ubuntu; [inux x86_64; rv:57.0) Gepko/20100101 Firion/xhtml*;q=0.8
+Accxt/html,application/xhtml*;q=0.8
+Accept-Language: en-US,=0.q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: uid=D5lLUfGJJJ
+Connection: keep-alive
+Upgrade-Insecure-Reques
